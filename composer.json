@@ -1,0 +1,18 @@
+{
+  "name": "muhammadiqbalafandi/say",
+  "description": "say hello to loved ones",
+  "type": "library",
+  "license": "nothing",
+  "autoload": {
+    "psr-4": {
+      "Say\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Muhammad Iqbal Afandi",
+      "email": "muhammadiqbalafandi30@gmail.com"
+    }
+  ],
+  "require": {}
+}
