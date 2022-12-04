@@ -5,7 +5,7 @@
   "license": "nothing",
   "autoload": {
     "psr-4": {
-      "Say\\": "src"
+      "Say\\": "src/"
     }
   },
   "authors": [
